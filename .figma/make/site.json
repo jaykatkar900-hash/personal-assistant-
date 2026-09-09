@@ -1,0 +1,10 @@
+{
+  "description": "This professional web application serves as a sleek frontend for personal assistants, offering users an intuitive interface to manage tasks and enhance productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
